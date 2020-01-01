@@ -1,0 +1,168 @@
+
+@media only screen and (max-width: 1200px)
+{
+    .row
+    {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+}
+
+
+
+
+@media only screen and (max-width: 1023px)
+{
+    .footer-nav li , .social-media li
+    {
+        margin-right: 10px;
+        font-size: 80%;
+    }
+    
+    h1
+    {
+        font-size: 200%;
+        word-spacing: 2px;
+    }
+
+    h2
+    {
+        font-size: 155%;
+        word-spacing: 1px;
+    }
+    
+    .long-copy
+    {
+        width: 80%;
+        margin-left: 10%;
+        margin-bottom: 25px;
+    }
+}
+
+
+
+@media only screen and (max-width: 767px)
+{
+    h1
+    {
+        font-size: 180%;
+        word-spacing: 1px;
+    }
+
+    h2
+    {
+        font-size: 140%;
+        word-spacing: 1px;
+    }
+    
+    h3
+    {
+        font-size: 90%;
+    }
+    
+    .long-copy
+    {
+        margin-bottom: 35px;
+        font-size: 90%;
+    }
+    
+    p
+    {
+        font-size: 90%;
+    }
+    
+    .main-nav li a
+    {
+        font-size: 75%;
+    }
+
+
+    .steps-box:last-child
+    {
+       margin-top: 30px;
+        width: 45%;
+    }
+    
+    .work-steps:last-of-type
+    {
+        margin-bottom: 60px;
+    }
+
+    .work-steps p
+    {
+        font-size: 80%;
+    }
+    
+    .app-button img
+    {
+        height: 45px;
+    }
+    
+    .city-feature
+    {
+        font-size: 85%;
+    }
+    
+    blockquote
+    {
+        margin-top: 10px;
+        margin-right: 20px;
+        font-size: 85%;
+    } 
+
+    cite
+    {
+        padding-top: 10px;
+        font-size: 85%;
+        vertical-align: middle;
+    }
+    
+    .plan-box div
+    {
+        padding: 10px;
+    }
+
+    .plan-price
+    {
+        font-size: 250%;
+    }
+
+    .plan-price-meal
+    {
+        font-size: 75%;
+    }
+
+    .plan-box div ul li
+    {
+        font-size: 75%;
+        padding-bottom: 15px;
+    }
+    
+    label
+    {
+        font-size: 90%;
+    }
+    
+    .form
+    {
+        width: 80%;
+    }
+    
+    .footer-nav li , .social-media li
+    {
+        margin-right: 5px;
+        font-size: 65%;
+    }
+    
+    footer
+    {
+        padding: 40px;
+    }
+    
+    footer p
+    {
+        font-size: 65%;
+        margin: 15px;
+    }
+}
